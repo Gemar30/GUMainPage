@@ -9,7 +9,13 @@
 2. Basic R Programming Activities
 
   - Click this link to see the activities: [R Activities](https://github.com/Gemar30/R_Activities)
-  
+
+3. MS Excel(VB Macros Exercises)
+
+  - Click this link to see the activities: [MS Excel(VB Macros)](https://github.com/Gemar30/R_Activities)
+
+
+
 
 
 
