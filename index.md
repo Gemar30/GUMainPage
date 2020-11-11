@@ -2,14 +2,10 @@
 
 ### Activities About Data Analyst
 
-1. Basic Python ProgrammingActivities
+1. Basic Python Programming Activities
 
-
-
-
-2.Basic R Programming Activities
-
-3. Third item
+  - Click this link to see the activities: [Python Activities](https://gemar30.github.io/Python_Activities/)
+  
 
 
 
