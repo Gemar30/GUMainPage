@@ -8,6 +8,9 @@
 
 3. **MS Excel(VB Macros Exercises)** Click this link to see the activities: [MS Excel(VB Macros)](https://github.com/Gemar30/MS_Excel_Activities)
 
+4. **Numpy Activities(Numpy Exercises)** Click this link to see the activities: [Numpy Exercise(R Numpy)](https://github.com/Gemar30/Numpy_Activities)
+
+
 
 
 
