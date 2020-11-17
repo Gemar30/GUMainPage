@@ -5,7 +5,7 @@ Activities about Data Analyst
 2. R
 3. MS Excel
 4. Numpy
-5. Pandas
+5. MatPlotLib
 
 
 
