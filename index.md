@@ -10,6 +10,9 @@
 
 4. **Numpy Activities(Numpy Exercises)** Click this link to see the activities: [Numpy Exercise(R Numpy)](https://github.com/Gemar30/Numpy_Activities)
 
+4. **MatPlotLib Activities(Python Matplotlib Exercises)** Click this link to see the activities: [Matplotlib Exercise(Python MatplotLib)](https://github.com/Gemar30/matPlotLobActivities)
+
+
 
 
 
