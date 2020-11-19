@@ -7,6 +7,7 @@ Activities about Data Analyst
 4. Numpy
 5. MatPlotLib
 6. Pandas
+7. Seaborn
 
 
 
