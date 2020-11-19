@@ -12,7 +12,9 @@
 
 5. **MatPlotLib Activities(Python Matplotlib Exercises)** Click this link to see the activities: [Matplotlib Exercise(Python MatplotLib)](https://github.com/Gemar30/matPlotLobActivities)
 
-6. **PandasActivities(Python Pandas Exercises)** Click this link to see the activities: [Pandas Exercise(Python Pandas)](https://github.com/Gemar30/Pandas_Activities)
+6. **Pandas Activities(Python Pandas Exercises)** Click this link to see the activities: [Pandas Exercise(Python Pandas)](https://github.com/Gemar30/Pandas_Activities)
+
+7. **Seaborn Activities(Seaborn Exercises)** Click this link to see the activities: [Seaborn Exercise(Seaborn)](https://github.com/Gemar30/Seaborn_Act)
 
 
 
