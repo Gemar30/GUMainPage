@@ -8,6 +8,7 @@ Activities about Data Analyst
 5. MatPlotLib
 6. Pandas
 7. Seaborn
+8. Exploratory Data Analysis
 
 
 
