@@ -16,6 +16,8 @@
 
 7. **Seaborn Activities(Seaborn Exercises)** Click this link to see the activities: [Seaborn Exercise(Seaborn)](https://github.com/Gemar30/Seaborn_Act)
 
+8. **Exploratory Data Analysis Activities(EDA Exercises)** Click this link to see the activities: [EDA Exercise(Exploratory)](https://github.com/Gemar30/EDA_Activities)
+
 
 
 
