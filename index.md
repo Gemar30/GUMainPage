@@ -18,8 +18,7 @@
 
 8. **Exploratory Data Analysis Activities(EDA Exercises)** Click this link to see the activities: [EDA Exercise(Exploratory)](https://github.com/Gemar30/EDA_Activities)
 
-9. **Tableau Do it Yourself Activities(Tableau Exercises)** Click this link to see the activities:[Tableau Exercise(Tableau)]
-(https://github.com/Gemar30/TableauActivitiesGU)
+9.**Tableau Data Analysis Activities(Tableau Exercises)** Click this link to see the activities: [Tableau Exercise(Activities)](https://github.com/Gemar30/TableauActivitiesGU)
 
 
 
