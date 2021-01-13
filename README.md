@@ -9,7 +9,7 @@ Activities about Data Analyst
 6. Pandas
 7. Seaborn
 8. Exploratory Data Analysis
-
+9. Tableau
 
 
 link of website: https://gemar30.github.io/GUMainPage/
