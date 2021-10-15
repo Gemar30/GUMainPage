@@ -12,5 +12,5 @@ Activities about Data Analyst
 9. Tableau
 
 
-link of website: https://gemar30.github.io/GUMainPage/
+
 
